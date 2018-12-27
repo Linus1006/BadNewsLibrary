@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd009347-57bb-4ce9-89a9-1e5839af7aba" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BadNewsEngine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BadNewsEngine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/BadNewsEngine/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/BadNewsEngine/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BadNewsEngine.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/BadNewsEngine.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BadNewsEngine/BadNewsEngine.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BadNewsEngine/BadNewsEngine.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BadNewsEngine/obj/Debug/BadNewsEngine.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BadNewsEngine/obj/Debug/BadNewsEngine.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DbHelper.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/DbHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1525244281458" expanded="true" signature="6:138" ph="..." />
+                <marker date="1525244281458" expanded="true" signature="171:720" ph="{...}" />
+                <marker date="1525244281458" expanded="true" signature="208:718" ph="{...}" />
+                <marker date="1525244281458" expanded="true" signature="288:712" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Web.config" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BadNewsEngine/Web.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ELandDataHelper.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/ELandDataHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1532426069849" expanded="true" signature="6:191" ph="..." />
+                <marker date="1532426069849" expanded="true" signature="224:7325" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="261:7323" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="371:540" ph="/// 執行ETL工程，將CRV的原始資料進行清洗有用的欄位至資料庫 ... " />
+                <marker date="1532426069849" expanded="true" signature="595:1849" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="1663:1838" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="1859:2042" ph="/// 執行ETL工程，將CRV的原始資料進行清洗有用的欄位至資料庫(DB直接做掉) ... " />
+                <marker date="1532426069849" expanded="true" signature="2101:3034" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="2949:3024" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="3044:3262" ph="/// 資料預處理，並建立負面資料庫的資料 ... " />
+                <marker date="1532426069849" expanded="true" signature="3333:3621" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="3633:3711" ph="/// 每日批次作業 ... " />
+                <marker date="1532426069849" expanded="true" signature="3754:4112" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="4128:4364" ph="/// Gens the bad news library. ... " />
+                <marker date="1532426069849" expanded="true" signature="4505:6387" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="5001:5119" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="5179:6240" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="5313:5412" ph="/* 取出負面字資料 ... */" />
+                <marker date="1532426069849" expanded="true" signature="5615:6226" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="5753:6208" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="5902:6183" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="6405:6579" ph="/// 新增負面資料庫資(TODO 可以改為新刪修同一方法) ... " />
+                <marker date="1532426069849" expanded="true" signature="6658:7023" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="6928:7018" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="7098:7315" ph="{...}" />
+                <marker date="1532426069849" expanded="true" signature="7231:7308" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Web.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BadNewsEngine/Views/Web.config">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+              <folding>
+                <marker date="1532425949254" expanded="false" signature="6:162" ph="..." />
+                <marker date="1532425949254" expanded="true" signature="199:1094" ph="{...}" />
+                <marker date="1532425949254" expanded="true" signature="246:1092" ph="{...}" />
+                <marker date="1532425949254" expanded="true" signature="288:620" ph="{...}" />
+                <marker date="1532425949254" expanded="true" signature="311:582" ph="/* var mvcName = typeof(Controller).Assembly.GetName(); ... */" />
+                <marker date="1532425949254" expanded="true" signature="687:1086" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ELandCompareController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/ELandCompareController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="49" />
+              <folding>
+                <marker date="1527828793134" expanded="false" signature="6:218" ph="..." />
+                <marker date="1527828793134" expanded="true" signature="255:1557" ph="{...}" />
+                <marker date="1527828793134" expanded="true" signature="313:1555" ph="{...}" />
+                <marker date="1527828793134" expanded="true" signature="328:428" ph="/// 與億藍比對結果使用 主要是測試比較使用 ... " />
+                <marker date="1527828793134" expanded="true" signature="467:1257" ph="{...}" />
+                <marker date="1527828793134" expanded="true" signature="713:1213" ph="{...}" />
+                <marker date="1527828793134" expanded="true" signature="968:1151" ph="/* 以下寫法不要常用 很花資源 懶人測試用 ... */" />
+                <marker date="1527828793134" expanded="true" signature="1267:1549" ph="/* INSERT INTO [eLand].[dbo].[ELandNlp] ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JiebaHelper.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/JiebaHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1525939874166" expanded="false" signature="6:125" ph="..." />
+                <marker date="1525939874166" expanded="true" signature="158:3000" ph="{...}" />
+                <marker date="1525939874166" expanded="true" signature="189:2998" ph="{...}" />
+                <marker date="1525939874166" expanded="true" signature="306:368" ph="/// 結巴的相關設定放在建構子. ... " />
+                <marker date="1525939874166" expanded="true" signature="397:644" ph="{...}" />
+                <marker date="1525939874166" expanded="true" signature="654:930" ph="/// 結巴分詞 ... " />
+                <marker date="1525939874166" expanded="true" signature="1050:1198" ph="{...}" />
+                <marker date="1525939874166" expanded="true" signature="1208:1393" ph="/// 詞性標註 ... " />
+                <marker date="1525939874166" expanded="true" signature="1526:1690" ph="/// 去除重複的關鍵字 ... " />
+                <marker date="1525939874166" expanded="true" signature="1761:1967" ph="{...}" />
+                <marker date="1525939874166" expanded="true" signature="1864:1946" ph="{...}" />
+                <marker date="1525939874166" expanded="true" signature="1977:2118" ph="/// 找出姓名 ... " />
+                <marker date="1525939874166" expanded="true" signature="2301:2446" ph="/// 找出地名 ... " />
+                <marker date="1525939874166" expanded="true" signature="2613:2841" ph="/// 找出並比對負面新聞(可能要調整badWords) ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BadNewsHelper.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/BadNewsHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1532426069848" expanded="false" signature="6:140" ph="..." />
+                <marker date="1532426069848" expanded="true" signature="173:3440" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="213:3438" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="228:341" ph="/// Loads the bad word. ... " />
+                <marker date="1532426069848" expanded="true" signature="419:827" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="544:643" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="713:817" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="837:997" ph="/// Creates the bad word. ... " />
+                <marker date="1532426069848" expanded="true" signature="1052:1677" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="1327:1667" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="1440:1651" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="1687:1831" ph="/// 找負面新聞 ... " />
+                <marker date="1532426069848" expanded="true" signature="1906:2401" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="2284:2391" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="2468:2815" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="2709:2792" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="2898:3430" ph="{...}" />
+                <marker date="1532426069848" expanded="true" signature="2921:2965" ph="/* TODO:新增從ES尋找負面新聞 ... */" />
+                <marker date="1532426069848" expanded="true" signature="3311:3420" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Views/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Service/BadNewsHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Service/JiebaHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/ELandCompareController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Service/DbHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/ELandPreprocessController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Service/ELandDataHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Models/BadWord.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Models/BadWordAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Models/BadNewsLibrary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Models/ELandPageContent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Models/CrvRawData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BadNewsEngine/Web.config" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BadNewsEngine/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/BadNewsEngine/Controllers/ELandPreprocessController.cs" />
+        <option value="$PROJECT_DIR$/BadNewsEngine/Service/ELandDataHelper.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BadNewsEngine (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BadNewsEngine (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BadNewsEngine" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BadNewsEngine (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BadNewsEngine" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Service" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BadNewsEngine (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BadNewsEngine" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd009347-57bb-4ce9-89a9-1e5839af7aba" name="Default" comment="" />
+      <created>1532336789515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532336789515</updated>
+      <workItem from="1532336793077" duration="453000" />
+      <workItem from="1535507287039" duration="64000" />
+      <workItem from="1535592371528" duration="1036000" />
+      <workItem from="1545898250220" duration="283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1836000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16309012" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/DbHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525244281458" expanded="true" signature="6:138" ph="..." />
+            <marker date="1525244281458" expanded="true" signature="171:720" ph="{...}" />
+            <marker date="1525244281458" expanded="true" signature="208:718" ph="{...}" />
+            <marker date="1525244281458" expanded="true" signature="288:712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/JiebaHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525939874166" expanded="false" signature="6:125" ph="..." />
+            <marker date="1525939874166" expanded="true" signature="158:3000" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="189:2998" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="306:368" ph="/// 結巴的相關設定放在建構子. ... " />
+            <marker date="1525939874166" expanded="true" signature="397:644" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="654:930" ph="/// 結巴分詞 ... " />
+            <marker date="1525939874166" expanded="true" signature="1050:1198" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="1208:1393" ph="/// 詞性標註 ... " />
+            <marker date="1525939874166" expanded="true" signature="1526:1690" ph="/// 去除重複的關鍵字 ... " />
+            <marker date="1525939874166" expanded="true" signature="1761:1967" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="1864:1946" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="1977:2118" ph="/// 找出姓名 ... " />
+            <marker date="1525939874166" expanded="true" signature="2301:2446" ph="/// 找出地名 ... " />
+            <marker date="1525939874166" expanded="true" signature="2613:2841" ph="/// 找出並比對負面新聞(可能要調整badWords) ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/BadNewsHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1532426069848" expanded="false" signature="6:140" ph="..." />
+            <marker date="1532426069848" expanded="true" signature="173:3440" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="213:3438" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="228:341" ph="/// Loads the bad word. ... " />
+            <marker date="1532426069848" expanded="true" signature="419:827" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="544:643" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="713:817" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="837:997" ph="/// Creates the bad word. ... " />
+            <marker date="1532426069848" expanded="true" signature="1052:1677" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="1327:1667" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="1440:1651" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="1687:1831" ph="/// 找負面新聞 ... " />
+            <marker date="1532426069848" expanded="true" signature="1906:2401" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="2284:2391" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="2468:2815" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="2709:2792" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="2898:3430" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="2921:2965" ph="/* TODO:新增從ES尋找負面新聞 ... */" />
+            <marker date="1532426069848" expanded="true" signature="3311:3420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/ELandDataHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1532426069849" expanded="true" signature="6:191" ph="..." />
+            <marker date="1532426069849" expanded="true" signature="224:7325" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="261:7323" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="371:540" ph="/// 執行ETL工程，將CRV的原始資料進行清洗有用的欄位至資料庫 ... " />
+            <marker date="1532426069849" expanded="true" signature="595:1849" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="1663:1838" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="1859:2042" ph="/// 執行ETL工程，將CRV的原始資料進行清洗有用的欄位至資料庫(DB直接做掉) ... " />
+            <marker date="1532426069849" expanded="true" signature="2101:3034" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="2949:3024" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="3044:3262" ph="/// 資料預處理，並建立負面資料庫的資料 ... " />
+            <marker date="1532426069849" expanded="true" signature="3333:3621" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="3633:3711" ph="/// 每日批次作業 ... " />
+            <marker date="1532426069849" expanded="true" signature="3754:4112" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="4128:4364" ph="/// Gens the bad news library. ... " />
+            <marker date="1532426069849" expanded="true" signature="4505:6387" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="5001:5119" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="5179:6240" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="5313:5412" ph="/* 取出負面字資料 ... */" />
+            <marker date="1532426069849" expanded="true" signature="5615:6226" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="5753:6208" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="5902:6183" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="6405:6579" ph="/// 新增負面資料庫資(TODO 可以改為新刪修同一方法) ... " />
+            <marker date="1532426069849" expanded="true" signature="6658:7023" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="6928:7018" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="7098:7315" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="7231:7308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/ELandPreprocessController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/ELandPreprocessController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/ELandPreprocessController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Models/ELandPageContent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Models/CrvRawData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Models/BadWordAction.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Models/BadWord.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Models/BadNewsLibrary.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/JiebaHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525939874166" expanded="false" signature="6:125" ph="..." />
+            <marker date="1525939874166" expanded="true" signature="158:3000" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="189:2998" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="306:368" ph="/// 結巴的相關設定放在建構子. ... " />
+            <marker date="1525939874166" expanded="true" signature="397:644" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="654:930" ph="/// 結巴分詞 ... " />
+            <marker date="1525939874166" expanded="true" signature="1050:1198" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="1208:1393" ph="/// 詞性標註 ... " />
+            <marker date="1525939874166" expanded="true" signature="1526:1690" ph="/// 去除重複的關鍵字 ... " />
+            <marker date="1525939874166" expanded="true" signature="1761:1967" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="1864:1946" ph="{...}" />
+            <marker date="1525939874166" expanded="true" signature="1977:2118" ph="/// 找出姓名 ... " />
+            <marker date="1525939874166" expanded="true" signature="2301:2446" ph="/// 找出地名 ... " />
+            <marker date="1525939874166" expanded="true" signature="2613:2841" ph="/// 找出並比對負面新聞(可能要調整badWords) ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <folding>
+            <marker date="1532425949254" expanded="false" signature="6:162" ph="..." />
+            <marker date="1532425949254" expanded="true" signature="199:1094" ph="{...}" />
+            <marker date="1532425949254" expanded="true" signature="246:1092" ph="{...}" />
+            <marker date="1532425949254" expanded="true" signature="288:620" ph="{...}" />
+            <marker date="1532425949254" expanded="true" signature="311:582" ph="/* var mvcName = typeof(Controller).Assembly.GetName(); ... */" />
+            <marker date="1532425949254" expanded="true" signature="687:1086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Controllers/ELandCompareController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <marker date="1527828793134" expanded="false" signature="6:218" ph="..." />
+            <marker date="1527828793134" expanded="true" signature="255:1557" ph="{...}" />
+            <marker date="1527828793134" expanded="true" signature="313:1555" ph="{...}" />
+            <marker date="1527828793134" expanded="true" signature="328:428" ph="/// 與億藍比對結果使用 主要是測試比較使用 ... " />
+            <marker date="1527828793134" expanded="true" signature="467:1257" ph="{...}" />
+            <marker date="1527828793134" expanded="true" signature="713:1213" ph="{...}" />
+            <marker date="1527828793134" expanded="true" signature="968:1151" ph="/* 以下寫法不要常用 很花資源 懶人測試用 ... */" />
+            <marker date="1527828793134" expanded="true" signature="1267:1549" ph="/* INSERT INTO [eLand].[dbo].[ELandNlp] ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/BadNewsHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1532426069848" expanded="false" signature="6:140" ph="..." />
+            <marker date="1532426069848" expanded="true" signature="173:3440" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="213:3438" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="228:341" ph="/// Loads the bad word. ... " />
+            <marker date="1532426069848" expanded="true" signature="419:827" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="544:643" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="713:817" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="837:997" ph="/// Creates the bad word. ... " />
+            <marker date="1532426069848" expanded="true" signature="1052:1677" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="1327:1667" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="1440:1651" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="1687:1831" ph="/// 找負面新聞 ... " />
+            <marker date="1532426069848" expanded="true" signature="1906:2401" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="2284:2391" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="2468:2815" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="2709:2792" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="2898:3430" ph="{...}" />
+            <marker date="1532426069848" expanded="true" signature="2921:2965" ph="/* TODO:新增從ES尋找負面新聞 ... */" />
+            <marker date="1532426069848" expanded="true" signature="3311:3420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/DbHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525244281458" expanded="true" signature="6:138" ph="..." />
+            <marker date="1525244281458" expanded="true" signature="171:720" ph="{...}" />
+            <marker date="1525244281458" expanded="true" signature="208:718" ph="{...}" />
+            <marker date="1525244281458" expanded="true" signature="288:712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Service/ELandDataHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1532426069849" expanded="true" signature="6:191" ph="..." />
+            <marker date="1532426069849" expanded="true" signature="224:7325" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="261:7323" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="371:540" ph="/// 執行ETL工程，將CRV的原始資料進行清洗有用的欄位至資料庫 ... " />
+            <marker date="1532426069849" expanded="true" signature="595:1849" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="1663:1838" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="1859:2042" ph="/// 執行ETL工程，將CRV的原始資料進行清洗有用的欄位至資料庫(DB直接做掉) ... " />
+            <marker date="1532426069849" expanded="true" signature="2101:3034" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="2949:3024" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="3044:3262" ph="/// 資料預處理，並建立負面資料庫的資料 ... " />
+            <marker date="1532426069849" expanded="true" signature="3333:3621" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="3633:3711" ph="/// 每日批次作業 ... " />
+            <marker date="1532426069849" expanded="true" signature="3754:4112" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="4128:4364" ph="/// Gens the bad news library. ... " />
+            <marker date="1532426069849" expanded="true" signature="4505:6387" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="5001:5119" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="5179:6240" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="5313:5412" ph="/* 取出負面字資料 ... */" />
+            <marker date="1532426069849" expanded="true" signature="5615:6226" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="5753:6208" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="5902:6183" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="6405:6579" ph="/// 新增負面資料庫資(TODO 可以改為新刪修同一方法) ... " />
+            <marker date="1532426069849" expanded="true" signature="6658:7023" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="6928:7018" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="7098:7315" ph="{...}" />
+            <marker date="1532426069849" expanded="true" signature="7231:7308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Views/Web.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadNewsEngine/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

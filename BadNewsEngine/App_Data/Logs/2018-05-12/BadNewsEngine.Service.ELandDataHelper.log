@@ -1,0 +1,36 @@
+2018-05-12 01:33:49.2017 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2016/9/1 上午 12:00:00到2016/9/30 上午 12:00:00 資料的預處理 
+
+2018-05-12 01:39:19.1128 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/10/1 上午 12:00:00到2016/10/31 上午 12:00:00 的預處理 
+
+2018-05-12 06:42:49.8626 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2016/10/1 上午 12:00:00到2016/10/31 上午 12:00:00 資料的預處理 
+
+2018-05-12 10:21:59.7777 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/11/1 上午 12:00:00到2016/11/5 上午 12:00:00 的預處理 
+
+2018-05-12 10:22:19.2285 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/11/6 上午 12:00:00到2016/11/10 上午 12:00:00 的預處理 
+
+2018-05-12 10:34:36.5144 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/11/1 上午 12:00:00到2016/11/5 上午 12:00:00 的預處理 
+
+2018-05-12 10:34:39.4545 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/11/6 上午 12:00:00到2016/11/10 上午 12:00:00 的預處理 
+
+2018-05-12 11:28:53.3938 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/11/6 上午 12:00:00到2016/11/10 上午 12:00:00 的預處理 
+
+2018-05-12 11:28:53.4001 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/11/1 上午 12:00:00到2016/11/5 上午 12:00:00 的預處理 
+
+2018-05-12 16:05:47.1494 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/11/1 上午 12:00:00到2016/11/5 上午 12:00:00 的預處理 
+
+2018-05-12 16:06:09.7913 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/11/6 上午 12:00:00到2016/11/10 上午 12:00:00 的預處理 
+
+2018-05-12 16:50:12.3584 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2016/11/6 上午 12:00:00到2016/11/10 上午 12:00:00 資料的預處理 
+
+2018-05-12 16:53:52.2634 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2016/11/1 上午 12:00:00到2016/11/5 上午 12:00:00 資料的預處理 
+
+2018-05-12 17:51:00.9739 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/11/11 上午 12:00:00到2016/11/20 上午 12:00:00 的預處理 
+
+2018-05-12 17:51:14.7149 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/11/21 上午 12:00:00到2016/11/30 上午 12:00:00 的預處理 
+
+2018-05-12 19:09:34.9255 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2016/11/11 上午 12:00:00到2016/11/20 上午 12:00:00 資料的預處理 
+
+2018-05-12 19:15:28.8497 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2016/11/21 上午 12:00:00到2016/11/30 上午 12:00:00 資料的預處理 
+
+2018-05-12 21:34:39.5615 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2016/12/1 上午 12:00:00到2016/12/31 上午 12:00:00 的預處理 
+

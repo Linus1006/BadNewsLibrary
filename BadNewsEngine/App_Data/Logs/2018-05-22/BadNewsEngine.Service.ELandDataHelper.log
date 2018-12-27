@@ -1,0 +1,30 @@
+2018-05-22 00:07:39.0676 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從2017/2/1 上午 12:00:00到2017/6/30 上午 12:00:00 的預處理 
+
+2018-05-22 00:22:02.7450 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2016/1/1 上午 12:00:00到2016/12/31 上午 12:00:00 資料的預處理 
+
+2018-05-22 06:06:54.1899 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2017/2/1 上午 12:00:00到2017/6/30 上午 12:00:00 資料的預處理 
+
+2018-05-22 10:49:25.1344 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從1980/10/6 上午 12:00:00到2018/5/22 上午 10:49:25 的預處理 
+
+2018-05-22 10:51:48.2843 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從1980/10/6 上午 12:00:00到2018/5/22 上午 10:51:40 的預處理 
+
+2018-05-22 10:53:56.5197 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從1980/10/6 上午 12:00:00到2018/5/22 上午 10:53:56 的預處理 
+
+2018-05-22 10:54:56.1847 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從1980/10/6 上午 12:00:00到2018/5/22 上午 10:54:56 的預處理 
+
+2018-05-22 11:01:44.3009 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從1980/10/6 上午 12:00:00到2018/5/22 上午 11:01:44 的預處理 
+
+2018-05-22 11:04:23.1150 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行資料 從1980/10/6 上午 12:00:00到2018/5/22 上午 11:04:23 的預處理 
+
+2018-05-22 11:20:15.0352 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行特定資料 從2017/7/1 上午 12:00:00到2017/7/31 上午 12:00:00 的預處理 
+
+2018-05-22 11:51:55.6900 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行特定資料 從2016/11/1 上午 12:00:00到2016/11/5 上午 12:00:00 的預處理 
+
+2018-05-22 11:53:35.7058 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2017/7/1 上午 12:00:00到2017/7/31 上午 12:00:00 資料的預處理 
+
+2018-05-22 11:59:14.3225 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2016/11/1 上午 12:00:00到2016/11/5 上午 12:00:00 資料的預處理 
+
+2018-05-22 21:09:00.0893 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行特定資料 從2017/8/1 上午 12:00:00到2017/12/31 上午 12:00:00 的預處理 
+
+2018-05-22 21:09:01.8496 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2017/8/1 上午 12:00:00到2017/12/31 上午 12:00:00 資料的預處理 
+

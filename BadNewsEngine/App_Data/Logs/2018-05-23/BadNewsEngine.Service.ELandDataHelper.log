@@ -1,0 +1,4 @@
+2018-05-23 20:07:40.1221 | TRACE | BadNewsEngine.Service.ELandDataHelper | 開始進行特定資料 從2018/11/1 上午 12:00:00到2018/11/5 上午 12:00:00 的預處理 
+
+2018-05-23 20:07:41.3462 | TRACE | BadNewsEngine.Service.ELandDataHelper | 已完成 從2018/11/1 上午 12:00:00到2018/11/5 上午 12:00:00 資料的預處理 
+

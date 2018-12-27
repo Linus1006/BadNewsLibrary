@@ -1,0 +1,53 @@
+﻿@using BadNewsEngine.Models
+@model IEnumerable<BadWord>
+
+
+<h3>@DateTime.Now.Year 負面字維護網頁</h3>
+
+@using (Html.BeginForm("Create", "Maintain"))
+{
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="input-group">
+                <input type="text" class="form-control" id="badWord" name="badWord" placeholder="新增負面字">
+                <div class="input-group-btn">
+                    <button type="submit" class="btn btn-default">開始新增</button>
+                </div><!-- /btn-group -->
+            </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+    </div>
+    <!-- /.row -->
+}
+
+<br>
+
+<div class="row" style="font-weight: bold">
+    <div class="col-md-3">
+        @Html.DisplayNameFor(model => model.Word)
+    </div>
+    <div class="col-md-3">
+        @Html.DisplayNameFor(model => model.ModifyTime)
+    </div>
+</div>
+
+<hr>
+
+@if (!Model.Any() || Model == null)
+{
+    <h5>查無資料 </h5>
+}
+else
+{
+    foreach (var item in Model)
+    {
+        <div class="row" style="">
+            <div class="col-md-3">
+                @Html.DisplayFor(modelItem => item.Word)
+            </div>
+            <div class="col-md-3">
+                @Html.DisplayFor(modelItem => item.ModifyTime)
+            </div>
+
+        </div>
+    }
+}

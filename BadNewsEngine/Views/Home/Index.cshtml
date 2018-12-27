@@ -1,0 +1,97 @@
+﻿@using BadNewsEngine.ViewModels
+@model IEnumerable<BadNewsResult>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script language="javascript" type="text/javascript">
+    function doPrint() {
+//        bdhtml=window.document.body.innerHTML;
+//        sprnstr="<!--startprint-->";
+//        eprnstr="<!--endprint-->";
+//        prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);
+//        prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));
+//        window.document.body.innerHTML=prnhtml;
+        window.print();
+    }
+</script>
+<h3>@DateTime.Now.Year 負面資料庫查詢網頁</h3>
+
+@using (Html.BeginForm("Index"))
+{
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="input-group">
+                <input type="text" class="form-control" id="name" name="name" placeholder="查詢條件:姓名" value=@ViewBag.name>
+                <div class="input-group-btn">
+                    <button type="submit" class="btn btn-default">開始查詢</button>
+                </div><!-- /btn-group -->
+            </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+    </div>
+    <!-- /.row -->
+}
+
+
+<hr>
+
+@if (Model != null)
+{
+    <div class="row" style="font-weight: bold">
+        <div class="col-md-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </div>
+        <div class="col-md-2">
+            @Html.DisplayNameFor(model => model.BadWords)
+        </div>
+        <div class="col-md-4">
+            @Html.DisplayNameFor(model => model.Title)
+        </div>
+        <div class="col-md-2">
+            @Html.DisplayNameFor(model => model.PostTime)
+        </div>
+        <div class="col-md-1">
+            @Html.DisplayNameFor(model => model.PageUrl)
+        </div>
+        
+        <div class="col-md-1">
+            <button type="button" class="btn btn-default" aria-label="Right Align" onclick="javascript:doPrint()" >
+                <span class="glyphicon glyphicon-print" aria-hidden="true"></span>
+            </button>
+        </div>
+        
+    </div>
+    
+    if (!Model.Any())
+    {
+        <h5>查無資料：@ViewBag.name </h5>
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+            <hr>
+
+            <div class="row" style="">
+                <div class="col-md-2">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </div>
+                <div class="col-md-2">
+                    @Html.DisplayFor(modelItem => item.BadWords)
+                </div>
+                <div class="col-md-4">
+                    @Html.DisplayFor(modelItem => item.Title)
+                </div>
+                <div class="col-md-2">
+                    @Html.DisplayFor(modelItem => item.PostTime)
+                </div>
+                <div class="col-md-1">
+                    <a href=@item.PageUrl class="btn btn-primary" target="_blank">前往網頁</a>
+                </div>
+                <div class="col-md-1">
+                  
+                </div>
+            </div>
+        }
+    }
+}
